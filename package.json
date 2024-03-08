@@ -1,6 +1,6 @@
 {
-  "name": "oss-oss",
-  "version": "1.0.5",
+  "name": "oss-show",
+  "version": "1.0.6",
   "description": "This package for print",
   "main": "index.js",
   "scripts": {
