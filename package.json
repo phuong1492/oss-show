@@ -7,11 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "sync-request": "6.1.0"
+    "sync-request": "6.1.0",
+    "autoprefixer": "10.4.18"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/phuong1492/oss-print"
+    "url": "https://github.com/phuong1492/oss-show"
   },
   "author": "phuong1492",
   "license": "ISC"
